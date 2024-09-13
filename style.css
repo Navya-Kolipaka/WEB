@@ -186,7 +186,7 @@ header{
 
 .features-section{
     padding:100px var(--padding-inline-section);
-    
+    margin-bottom: 30px;
     
 }
 
@@ -215,10 +215,9 @@ header{
 }
 
 
-git init/*  Big Feature Section*/
+/*  Big Feature Section*/
 
 .big-feature-section{
-    
     padding:1050px var(--padding-inline-section) 0;
 }
 
